@@ -1,4 +1,4 @@
-# Pytest Lab [![](https://github.com/maxinetamas/cs046lab3/workflows/tests/badge.svg)](https://github.com/maxinetamas/cs046lab3/actions?query=workflows%3Atests)[]
+# Pytest Lab [![](https://github.com/maxinetamas/cs046lab3/workflows/tests/badge.svg)]
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 You will also walk through how to use the pytest framework for running test cases.
